@@ -5,7 +5,7 @@
     "dependencies": {},
     "node-red": {
         "settings": {
-            "flowFile": "flow-manager-nodes-order.json",
+            "flowFile": "config-nodes.json",
             "credentialsFile": "flow_cred.json"
         }
     }
